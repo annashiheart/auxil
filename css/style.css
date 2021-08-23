@@ -1570,7 +1570,7 @@ text-align: center;}
 .recent-post .post-image img {   border-radius:8px;   width: 80px;}
 .recent-post .post-image a{ display:block;}
 .recent-post .post-info h5 a{   color: #050748;}
-.recent-post .post-info h5 a:hover{ color: #2196f3;}
+.recent-post .post-info h5 a:hover{ color: #0aa1e6;}
 .recent-post .post-info h5 {    font-size: 16px;    line-height: 26px;}
 .post-info {    margin: 0px 0 0 20px;}
 .widgets h3{font-size:20px;}
@@ -2924,10 +2924,10 @@ background: linear-gradient(to right, #f92c8b 0%,#b02cd6 100%);
 -webkit-box-shadow: 0 10px 15px 0px rgba(175, 0, 202, .2);
 box-shadow: 0 10px 15px 0px rgba(175, 0, 202, .2);}
 .bg-btn3 {
-background: #673AB7;
-background: -moz-linear-gradient(left, #673AB7 0%, #2196F3 100%);
-background: -webkit-linear-gradient(left, #673AB7 0%,#2196F3 100%);
-background: linear-gradient(to right, #673AB7 0%,#2196F3 100%);
+background: #5759d3;
+background: -moz-linear-gradient(left, #5759d3 0%, #0aa1e6 100%);
+background: -webkit-linear-gradient(left, #5759d3 0%,#0aa1e6 100%);
+background: linear-gradient(to right, #5759d3 0%,#0aa1e6 100%);
 -webkit-box-shadow: 0 10px 15px 0px rgba(56, 0, 189, .2);
 box-shadow: 0 10px 15px 0px rgba(56, 0, 189, .2);}
 .bg-btn4 {/*use in dark mode*/
@@ -2962,7 +2962,7 @@ color: transparent;
 -webkit-text-fill-color: transparent;
 -webkit-animation: hue 6s infinite linear; }
 .bg-a{ background-image: linear-gradient(to right, #ff1f8e 0%,#ffbd84 36%,#ffbd84 65%,#ff1f8e 100%);}
-.bg-b{ background-image: linear-gradient(to right, #673AB7 0%,#E91E63 36%,#E91E63 65%,#673AB7 100%);}
+.bg-b{ background-image: linear-gradient(to right, #5759d3 0%,#E91E63 36%,#E91E63 65%,#5759d3 100%);}
 @keyframes slideIn {
 0% {transform: translateY(1rem);    opacity: 0; }
 100% {transform:translateY(0rem);   opacity: 1; }
@@ -3072,9 +3072,9 @@ background: -webkit-linear-gradient(left, #3f36b9 0%,#20206b 100%);
 background: linear-gradient(to right, #3f36b9 0%,#20206b 100%);}
 .bg-gradient13{
 background: #9C27B0;
-background: -moz-linear-gradient(left, #9C27B0 0%, #673AB7 100%);
-background: -webkit-linear-gradient(left, #9C27B0 0%,#673AB7 100%);
-background: linear-gradient(to right, #9C27B0 0%,#673AB7 100%);}
+background: -moz-linear-gradient(left, #9C27B0 0%, #5759d3 100%);
+background: -webkit-linear-gradient(left, #9C27B0 0%,#5759d3 100%);
+background: linear-gradient(to right, #9C27B0 0%,#5759d3 100%);}
 .bg-gradient14{
 background: #ff2d8d;
 background: -moz-linear-gradient(top, #ff2d8d 0%, #653db9  100%);
